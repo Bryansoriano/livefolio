@@ -1,4 +1,4 @@
-16436
+16445
 64C:\Users\bryan\source\repos\simplefolio\node_modules\sha.js\test132991952161782413 1
 48C:\Users\bryan\source\repos\simplefolio\examples132991935372550635 1
 91C:\Users\bryan\source\repos\simplefolio\node_modules\caniuse-lite\data\features\auxclick.js132991952188072418 0
@@ -20,7 +20,7 @@
 87C:\Users\bryan\source\repos\simplefolio\node_modules\postcss-minify-params\CHANGELOG.md132991952121777416 0
 84C:\Users\bryan\source\repos\simplefolio\node_modules\@parcel\utils\src\getRootDir.js132991952186372417 0
 72C:\Users\bryan\source\repos\simplefolio\node_modules\graceful-fs\LICENSE132991952103862407 0
-50C:\Users\bryan\source\repos\simplefolio\.gitignore132991935372315578 0
+50C:\Users\bryan\source\repos\simplefolio\.gitignore132991965319291016 0
 90C:\Users\bryan\source\repos\simplefolio\node_modules\es-abstract\2021\BigInt\bitwiseAND.js132991952201107424 0
 96C:\Users\bryan\source\repos\simplefolio\node_modules\jsdom\lib\jsdom\living\xhr\FormData-impl.js132991952239647411 0
 72C:\Users\bryan\source\repos\simplefolio\node_modules\word-wrap\README.md132991952105857416 0
@@ -43,8 +43,8 @@
 77C:\Users\bryan\source\repos\simplefolio\node_modules\is-typed-array\README.md132991952151297408 0
 101C:\Users\bryan\source\repos\simplefolio\node_modules\source-map-support\browser-source-map-support.js132991952109282409 0
 80C:\Users\bryan\source\repos\simplefolio\node_modules\lodash\_unescapeHtmlChar.js132991952216827416 0
-43C:\Users\bryan\source\repos\simplefolio\src132991935372700592 1
-44C:\Users\bryan\source\repos\simplefolio\dist132991955672684914 1
+43C:\Users\bryan\source\repos\simplefolio\src132991979066228143 1
+44C:\Users\bryan\source\repos\simplefolio\dist132991979069478147 1
 85C:\Users\bryan\source\repos\simplefolio\node_modules\es-abstract\2017\YearFromTime.js132991952257482414 0
 72C:\Users\bryan\source\repos\simplefolio\node_modules\srcset\package.json132991952113732414 0
 63C:\Users\bryan\source\repos\simplefolio\node_modules\uuid\v4.js132991952160267413 0
@@ -106,7 +106,7 @@
 77C:\Users\bryan\source\repos\simplefolio\node_modules\aws4\.github\FUNDING.yml132991952142467430 0
 72C:\Users\bryan\source\repos\simplefolio\src\sass\abstracts\_helpers.scss132991935372650587 0
 57C:\Users\bryan\source\repos\simplefolio\node_modules\svgo132991952200832412 1
-43C:\Users\bryan\source\repos\simplefolio\.vs132991955668666825 1
+43C:\Users\bryan\source\repos\simplefolio\.vs132991979070753312 1
 60C:\Users\bryan\source\repos\simplefolio\node_modules\postcss132991952179487419 1
 72C:\Users\bryan\source\repos\simplefolio\node_modules\core-js\es\function132991952258947415 1
 73C:\Users\bryan\source\repos\simplefolio\node_modules\svgo\lib\svgo\coa.js132991952162152421 0
@@ -252,7 +252,7 @@
 75C:\Users\bryan\source\repos\simplefolio\node_modules\import-fresh\readme.md132991952121067410 0
 118C:\Users\bryan\source\repos\simplefolio\node_modules\lmdb-store\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_drop.c132991952185792411 0
 91C:\Users\bryan\source\repos\simplefolio\node_modules\w3c-xmlserializer\lib\serialization.js132991952129632415 0
-54C:\Users\bryan\source\repos\simplefolio\src\index.html132991327938269146 0
+54C:\Users\bryan\source\repos\simplefolio\src\index.html132991979066193147 0
 97C:\Users\bryan\source\repos\simplefolio\node_modules\chalk\node_modules\supports-color\browser.js132991952109202423 0
 100C:\Users\bryan\source\repos\simplefolio\node_modules\http-proxy\lib\http-proxy\passes\ws-incoming.js132991952164872408 0
 91C:\Users\bryan\source\repos\simplefolio\node_modules\postcss-reduce-transforms\package.json132991952115667416 0
@@ -5060,6 +5060,7 @@
 90C:\Users\bryan\source\repos\simplefolio\node_modules\caniuse-lite\data\features\fileapi.js132991952229197408 0
 71C:\Users\bryan\source\repos\simplefolio\node_modules\ripemd160\index.js132991952113927412 0
 70C:\Users\bryan\source\repos\simplefolio\node_modules\ripemd160\LICENSE132991952120657415 0
+59C:\Users\bryan\source\repos\simplefolio\dist\b.b8b07283.png132991955876691560 0
 89C:\Users\bryan\source\repos\simplefolio\node_modules\es-abstract\2021\Number\leftShift.js132991952243282421 0
 72C:\Users\bryan\source\repos\simplefolio\node_modules\ripemd160\README.md132991952125022427 0
 73C:\Users\bryan\source\repos\simplefolio\node_modules\lodash\_asciiSize.js132991952164672410 0
@@ -8376,6 +8377,7 @@
 72C:\Users\bryan\source\repos\simplefolio\node_modules\lodash\_getValue.js132991952211797421 0
 82C:\Users\bryan\source\repos\simplefolio\node_modules\is-generator-function\LICENSE132991952125327416 0
 85C:\Users\bryan\source\repos\simplefolio\node_modules\core-js\features\array\reduce.js132991952260397415 0
+66C:\Users\bryan\source\repos\simplefolio\dist\picture1.7ebb962e.png132991955876691560 0
 71C:\Users\bryan\source\repos\simplefolio\node_modules\lodash\_getView.js132991952211897419 0
 87C:\Users\bryan\source\repos\simplefolio\node_modules\core-js\stable\typed-array\from.js132991952248842414 0
 71C:\Users\bryan\source\repos\simplefolio\node_modules\bootstrap\dist\css132991952212792409 1
@@ -13012,6 +13014,7 @@
 88C:\Users\bryan\source\repos\simplefolio\node_modules\@parcel\watcher\prebuilds\linux-x64132991952196267406 1
 80C:\Users\bryan\source\repos\simplefolio\node_modules\core-js\stable\math\sign.js132991952261482410 0
 80C:\Users\bryan\source\repos\simplefolio\node_modules\core-js\stable\math\sinh.js132991952261507425 0
+60C:\Users\bryan\source\repos\simplefolio\dist\me.35fbb1a1.jpg132991955915276576 0
 115C:\Users\bryan\source\repos\simplefolio\node_modules\@parcel\core\test\fixtures\custom-format-mismatch\package.json132991952211097418 0
 80C:\Users\bryan\source\repos\simplefolio\node_modules\core-js\stable\math\tanh.js132991952262417419 0
 81C:\Users\bryan\source\repos\simplefolio\node_modules\core-js\stable\math\trunc.js132991952263122410 0
@@ -13641,7 +13644,7 @@
 93C:\Users\bryan\source\repos\simplefolio\node_modules\core-js\features\symbol\pattern-match.js132991952260092410 0
 116C:\Users\bryan\source\repos\simplefolio\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg132991952197717407 1
 91C:\Users\bryan\source\repos\simplefolio\node_modules\core-js\features\symbol\replace-all.js132991952260857406 0
-51C:\Users\bryan\source\repos\simplefolio\dist\assets132991955670006822 1
+51C:\Users\bryan\source\repos\simplefolio\dist\assets132991955874461569 1
 86C:\Users\bryan\source\repos\simplefolio\node_modules\core-js\features\symbol\search.js132991952261112414 0
 101C:\Users\bryan\source\repos\simplefolio\node_modules\core-js\features\string\virtual\code-point-at.js132991952205977414 0
 87C:\Users\bryan\source\repos\simplefolio\node_modules\core-js\features\symbol\species.js132991952261797414 0
@@ -15448,6 +15451,7 @@
 91C:\Users\bryan\source\repos\simplefolio\node_modules\@popperjs\core\dist\esm\popper-lite.js132991952207447418 0
 85C:\Users\bryan\source\repos\simplefolio\node_modules\@popperjs\core\dist\esm\types.js132991952211692410 0
 94C:\Users\bryan\source\repos\simplefolio\node_modules\@popperjs\core\dist\esm\utils\debounce.js132991952200917411 0
+85C:\Users\bryan\source\repos\simplefolio\.vs\simplefolio\config\applicationhost.config132798456020000000 0
 100C:\Users\bryan\source\repos\simplefolio\node_modules\@popperjs\core\dist\esm\utils\detectOverflow.js132991952201282426 0
 79C:\Users\bryan\source\repos\simplefolio\node_modules\@parcel\fs\lib\MemoryFS.js132991952161557438 0
 83C:\Users\bryan\source\repos\simplefolio\node_modules\@babel\types\lib\builders\flow132991952164377416 1
@@ -15594,6 +15598,7 @@
 82C:\Users\bryan\source\repos\simplefolio\node_modules\@parcel\utils\src\throttle.js132991952201562421 0
 81C:\Users\bryan\source\repos\simplefolio\node_modules\@parcel\utils\src\urlJoin.js132991952201832411 0
 83C:\Users\bryan\source\repos\simplefolio\node_modules\@parcel\utils\lib\ansi-html.js132991952151917413 0
+55C:\Users\bryan\source\repos\simplefolio\.vs\simplefolio132991978661091737 1
 84C:\Users\bryan\source\repos\simplefolio\node_modules\@parcel\utils\lib\bundle-url.js132991952160697412 0
 84C:\Users\bryan\source\repos\simplefolio\node_modules\@parcel\utils\lib\collection.js132991952162297410 0
 80C:\Users\bryan\source\repos\simplefolio\node_modules\@parcel\utils\lib\config.js132991952164717421 0
@@ -16428,10 +16433,14 @@
 67C:\Users\bryan\source\repos\simplefolio\dist\index.88ae5040.css.map132991954482296440 0
 63C:\Users\bryan\source\repos\simplefolio\dist\index.de7da63a.css132991955670001824 0
 67C:\Users\bryan\source\repos\simplefolio\dist\index.de7da63a.css.map132991955670051823 0
-55C:\Users\bryan\source\repos\simplefolio\dist\index.html132991955672654914 0
+55C:\Users\bryan\source\repos\simplefolio\dist\index.html132991979069453158 0
+66C:\Users\bryan\source\repos\simplefolio\dist\Picture1.78a78665.png132991979069468157 0
 65C:\Users\bryan\source\repos\simplefolio\dist\project.0b14f8de.jpg132991954462811551 0
 65C:\Users\bryan\source\repos\simplefolio\dist\project.363fc093.jpg132991955670001824 0
 61C:\Users\bryan\source\repos\simplefolio\dist\web.4f21e21e.png132991955672654914 0
-76C:\Users\bryan\source\repos\simplefolio\dist\assets\bryan_soriano_resume.pdf132991955669966835 0
+61C:\Users\bryan\source\repos\simplefolio\dist\web.f53f3365.png132991955915251573 0
+76C:\Users\bryan\source\repos\simplefolio\dist\assets\bryan_soriano_resume.pdf132991955874451591 0
 62C:\Users\bryan\source\repos\simplefolio\dist\assets\resume.pdf132991954458361527 0
-55C:\Users\bryan\source\repos\simplefolio\.vs\slnx.sqlite132991955668661835 0
+55C:\Users\bryan\source\repos\simplefolio\.vs\slnx.sqlite132991979070743291 0
+62C:\Users\bryan\source\repos\simplefolio\.vs\simplefolio\config132991978661091737 1
+59C:\Users\bryan\source\repos\simplefolio\.vs\simplefolio\v17132991978651729217 1
